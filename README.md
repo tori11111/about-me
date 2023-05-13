@@ -4,9 +4,9 @@
 
 #자주 듣는거  
 [playlist](https://youtu.be/J0UFqjq9mmE, "google link")  
-|제목|내용|
-|-------|
-|이름|임성준|
+|제목|내용|  
+|-------|  
+|이름|임성준|  
 |나이|23|  
 
 # This is a H1  
